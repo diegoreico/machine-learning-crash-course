@@ -10,3 +10,4 @@ Order i've worked on this notebooks
   
 2. Machine Learning Crash Course
     - [Hello World](machine-learning-crash-course/hello_world.ipynb)
+    - [First Steps With Tensorflow](machine-learning-crash-course/first_steps_with_tensor_flow.ipynb)
