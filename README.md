@@ -13,4 +13,4 @@ Order i've worked on this notebooks
     - [First Steps With Tensorflow](first_steps_with_tensor_flow.ipynb)
     - [Synthetic_Features_and_Outliers](synthetic_features_and_outliers.ipynb)
     - [Validation](validation.ipynb)
-    - [feature_sets.ipynb](feature_sets.ipynb)
+    - [Feature Sets](feature_sets.ipynb)
