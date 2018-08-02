@@ -6,7 +6,7 @@ Full course is located here: https://developers.google.com/machine-learning/cras
 Order i've worked on this notebooks 
 
 1. Introduction
-    - [Introduction to pandas]intro_to_pandas.ipynb) 
+    - [Introduction to pandas](intro_to_pandas.ipynb) 
   
 2. Machine Learning Crash Course
     - [Hello World](hello_world.ipynb)
