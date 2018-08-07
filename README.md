@@ -14,3 +14,4 @@ Order i've worked on this notebooks
     - [Synthetic_Features_and_Outliers](synthetic_features_and_outliers.ipynb)
     - [Validation](validation.ipynb)
     - [Feature Sets](feature_sets.ipynb)
+    - [Feature Crosses](feature_crosses.ipynb)
