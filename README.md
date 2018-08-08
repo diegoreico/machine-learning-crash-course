@@ -16,3 +16,4 @@ Order i've worked on this notebooks
     - [Feature Sets](feature_sets.ipynb)
     - [Feature Crosses](feature_crosses.ipynb)
     - [Logistic Regression](logistic_regression.ipynb)
+    - [Sparsity And L1 Regularization](sparsity_and_l1_regularization.ipynb)
