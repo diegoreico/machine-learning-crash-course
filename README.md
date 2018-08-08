@@ -18,3 +18,4 @@ Order i've worked on this notebooks
     - [Logistic Regression](logistic_regression.ipynb)
     - [Sparsity And L1 Regularization](sparsity_and_l1_regularization.ipynb)
     - [Intro To Neural Nets](intro_to_neural_nets.ipynb)
+    - [Improving Neural Net Performance](improving_neural_net_performance.ipynb)
