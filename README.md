@@ -19,3 +19,4 @@ Order i've worked on this notebooks
     - [Sparsity And L1 Regularization](sparsity_and_l1_regularization.ipynb)
     - [Intro To Neural Nets](intro_to_neural_nets.ipynb)
     - [Improving Neural Net Performance](improving_neural_net_performance.ipynb)
+    - [Multi Class Classification of Handwrittern Digits](multi_class_classification_of_handwritten_digits.ipynb)
