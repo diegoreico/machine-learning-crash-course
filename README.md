@@ -20,3 +20,4 @@ Order i've worked on this notebooks
     - [Intro To Neural Nets](intro_to_neural_nets.ipynb)
     - [Improving Neural Net Performance](improving_neural_net_performance.ipynb)
     - [Multi Class Classification of Handwrittern Digits](multi_class_classification_of_handwritten_digits.ipynb)
+    - [Intro To Sparse Data And Embeddings](intro_to_sparse_data_and_embeddings.ipynb)
